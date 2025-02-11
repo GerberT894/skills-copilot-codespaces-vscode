@@ -1,4 +1,4 @@
-// create a Web server
+// Create web server
 // npm install express body-parser
 // npm install nodemon
 // run the server: nodemon comments.js
